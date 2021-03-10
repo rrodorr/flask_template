@@ -1,0 +1,12 @@
+body {
+    background-color: whitesmoke;
+    font-family: Helvetica, sans-serif;
+    font-size: 16pt;
+}
+
+/* This is the container for the entire body */
+.page-container {
+    width: 80%;
+    margin: auto;
+    /* border: 1px solid red; */
+}
